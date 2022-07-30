@@ -13,8 +13,8 @@
 
         <table class="table">
             <thead>
-                <th>Nombre</th>
-                <th>Saldo</th>
+                <th>Nombres</th>
+                <th>Saldos</th>
                 <th>Acciones</th>
             </thead>
             <tbody>
